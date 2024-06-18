@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+#yellow{
+	background-color:yellow;
+	bolder-width:1px;
+	border-color:yellow;
+}
+#yellow{
+	background-color:yellow;
+	bolder-width:1px;
+	border-color:green;
+	border-style:solid;
+}
+#red{
+	background-color:red;
+	bolder-width:1px;
+	border-color:black;
+	border-style:solid;
+}
+#green{
+	background-color:green;
+	bolder-width:1px;
+	border-color:yellow;
+	border-style:solid;
+}
